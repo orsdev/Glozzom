@@ -364,4 +364,19 @@ th {
 .navbar .nav-item .active {
   border-left: red 3px solid; }
 
+.carousel-item {
+  height: 450px; }
+.carousel-image-1 {
+  background-image: url("../../img/image1.jpg");
+  background-size: cover;
+  background-position: top center; }
+.carousel-image-2 {
+  background-image: url("../../img/image2.jpg");
+  background-size: cover;
+  background-position: top center; }
+.carousel-image-3 {
+  background-image: url("../../img/image3.jpg");
+  background-size: cover;
+  background-position: top center; }
+
 /*# sourceMappingURL=style.css.map */
