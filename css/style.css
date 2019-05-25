@@ -365,18 +365,22 @@ th {
   border-left: red 3px solid; }
 
 .carousel-item {
-  height: 450px; }
+  height: 450px;
+  background-image: url(../img/image1.jpg) !important; }
 .carousel-image-1 {
-  background-image: url("../../img/image1.jpg");
+  background-image: url("../img/image1.jpg");
   background-size: cover;
   background-position: top center; }
 .carousel-image-2 {
-  background-image: url("../../img/image2.jpg");
+  background-image: url("../img/image2.jpg");
   background-size: cover;
   background-position: top center; }
 .carousel-image-3 {
-  background-image: url("../../img/image3.jpg");
+  background-image: url("../img/image3.jpg");
   background-size: cover;
   background-position: top center; }
+
+.fa {
+  font-size: 2.6rem; }
 
 /*# sourceMappingURL=style.css.map */
