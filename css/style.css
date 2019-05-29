@@ -400,6 +400,10 @@ th {
   #video-play a {
     color: white; }
 
+footer#main-footer {
+  background-color: black;
+  color: white; }
+
 .navbar .nav-link {
   font-size: 14px;
   text-transform: uppercase;
