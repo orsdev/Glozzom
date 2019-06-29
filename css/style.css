@@ -433,7 +433,7 @@ footer#main-footer {
   padding-left: 1rem !important;
   padding-right: 1rem !important; }
 .navbar .nav-item .active {
-  border-left: red 3px solid; }
+  border-left: red 3px solid !important; }
 
 .fa {
   font-size: 2.6rem; }
