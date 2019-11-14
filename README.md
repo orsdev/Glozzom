@@ -14,6 +14,6 @@ Bootstrap 4
 
 Slick Slider Jquery Plugin
 
-#Live Link
+# Live Link
 
 https://orsdev.github.io/Glozzom/
